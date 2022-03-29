@@ -1,1 +1,1 @@
-# Notebooks-Practice notebooks
+# Cognizant Internship - exercise notebooks
